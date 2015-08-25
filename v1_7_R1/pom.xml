@@ -7,7 +7,7 @@
   </parent>
   <groupId>com.walrusone.skywars</groupId>
   <artifactId>skywarsreloadedplugin-v1_7_R1</artifactId>
-  <version>v1_7_R3</version>
+  <version>v1_7_R1</version>
   <name>SkyWarsReloaded Plugin implementation v1_7_R1</name>
   
   <dependencies>
